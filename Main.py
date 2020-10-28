@@ -298,5 +298,5 @@ class LoginScreen:
 
 
 if __name__ == '__main__':
-    a = LoginScreen()
-    a.run()
+    LoginScreen().run()
+
